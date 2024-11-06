@@ -164,6 +164,9 @@ Oportunidades Laborales: Puede atraer la atención de empleadores, clientes pote
             background-position: center; /* Centra la imagen */
             background-repeat: no-repeat; /* Evita que la imagen se repita */
             margin: 0;
+width: 300px; /* Ancho de la imagen */ 
+            height: 200px; /* Alto de la imagen */
+            
             font-family: Arial, sans-serif;
         }
     </style>
